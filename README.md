@@ -14,6 +14,13 @@ https://pt.wikipedia.org/wiki/N%C3%ADvel_de_cinza#Convertendo_a_cor_em_n%C3%ADve
 
 The function was implemented using differente examples of how to use pillow.
 
+Image
+author: Michael Dam 
+"https://unsplash.com/pt-br/@michaeldam?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash"
+photo:
+"https://unsplash.com/pt-br/fotografias/closeup-photography-of-woman-smiling-mEZ3PoFGs_k?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+    
+
 ## to execute
 - install de requirents.txt
 - run de python program: reduzirDimensionalidade
